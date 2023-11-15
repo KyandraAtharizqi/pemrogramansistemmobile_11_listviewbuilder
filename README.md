@@ -1,3 +1,3 @@
-# pemrogramanmobile_11
+# pemrogramansistemmobile_11
 
-A new Flutter project.
+Membuat aplikasi sederhana untuk menampilkan list produk dan harga dengan menggunakan ListViewBuilder Flutter
